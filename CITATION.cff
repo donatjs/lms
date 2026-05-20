@@ -21,9 +21,9 @@ date-released: "2026-04-20"
 
 license: MIT
 url: "https://donat.id"
-repository-code: "https://github.com/donatjs/donatjs"
+repository-code: "https://github.com/donatjs/lms"
 
-doi: "10.5281/zenodo.XXXXXXXX"
+doi: "10.5281/zenodo.20304292"
 
 keywords:
   - javascript

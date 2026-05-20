@@ -5,6 +5,8 @@
 ![No Build Step](https://img.shields.io/badge/No--Build-Step-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)
 ![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20304292-blue)
+[![Live Demo](https://img.shields.io/badge/demo-live%20preview-blueviolet.svg)](https://donatjs.github.io/lms/)
+
 
 A minimalist client-side router and UI engine that transforms structured JSON data into dynamic web interfaces — with zero dependencies and no build step required.
 

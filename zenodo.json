@@ -36,7 +36,7 @@
     },
     {
       "scheme": "url",
-      "identifier": "https://github.com/donatjs/donatjs",
+      "identifier": "https://github.com/donatjs/lms",
       "relation": "isSupplementedBy",
       "resource_type": "software"
     },

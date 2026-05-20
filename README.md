@@ -4,7 +4,7 @@
 ![Zero Dependency](https://img.shields.io/badge/Zero-Dependency-green)
 ![No Build Step](https://img.shields.io/badge/No--Build-Step-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)
-![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.XXXXXXXX-blue)
+![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20304292-blue)
 
 A minimalist client-side router and UI engine that transforms structured JSON data into dynamic web interfaces — with zero dependencies and no build step required.
 
@@ -158,8 +158,8 @@ pages.certificates = {
   title        = {{DonatJS LMS: Minimalist Client-Side Router \& UI Engine}},
   year         = {2026},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.XXXXXXXX},
-  url          = {https://doi.org/10.5281/zenodo.XXXXXXXX},
+  doi          = {10.5281/zenodo.20304292},
+  url          = {https://doi.org/10.5281/zenodo.20304292},
   note         = {Zero-dependency, JSON-driven micro-framework for structured web portal rendering}
 }
 ```

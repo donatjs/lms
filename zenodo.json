@@ -1,0 +1,59 @@
+{
+  "title": "DonatJS LMS: Minimalist Client-Side Router & UI Engine",
+  "description": "A zero-dependency, no-build-step, JSON-driven micro-framework for rendering structured data as dynamic web interfaces entirely on the client side. DonatJS LMS transforms declarative page objects into rendered components — hero sections, feature cards, quiz engines, certificate verifiers, and structured learning modules — without any external libraries or build toolchains. Designed for resource-constrained educational environments where simplicity, performance, and deployability take priority over ecosystem complexity. The framework lineage traces from Ktupad (2019, PHP/MVC) to BayamJS (2023, JS/MVC) to DonatJS (2024–2026, JSON-driven CSR).",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "publication_date": "2026-04-20",
+  "version": "1.0.0",
+  "language": "id",
+  "creators": [
+    {
+      "name": "Sismadi, Wawan",
+      "affiliation": "Universitas IPWIJA / PT Sismadi Langit Solusi",
+      "orcid": "0009-0007-2685-5663"
+    }
+  ],
+  "keywords": [
+    "javascript",
+    "client-side rendering",
+    "json-driven UI",
+    "single page application",
+    "zero dependency",
+    "no-build step",
+    "micro-framework",
+    "learning management system",
+    "educational technology",
+    "web framework",
+    "Indonesia"
+  ],
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://donat.id",
+      "relation": "isDocumentedBy",
+      "resource_type": "other"
+    },
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/donatjs/donatjs",
+      "relation": "isSupplementedBy",
+      "resource_type": "software"
+    },
+    {
+      "scheme": "other",
+      "identifier": "EC00202414144",
+      "relation": "isIdenticalTo",
+      "resource_type": "other"
+    }
+  ],
+  "references": [
+    "Sismadi, W. (2024). DonatJS: Zero-Dependency JSON-Driven Micro-Framework. Universitas IPWIJA.",
+    "Sismadi, W. (2026). Arsitektur Piawai Mengajar (Manuscript, 9 chapters). UAD."
+  ],
+  "notes": "Framework lineage: Ktupad (2019, PHP/MVC) → BayamJS (2023, JS/MVC) → DonatJS (2024, JSON-driven CSR). HKI Copyright registration: EC00202414144. Patent application: S00202603129 (DJKI). Lighthouse metrics — Performance: 98, Accessibility: 92, Best Practices: 100, SEO: 90.",
+  "communities": [
+    { "identifier": "zenodo" }
+  ],
+  "grants": []
+}
